@@ -3,7 +3,11 @@
         <div class="col s12 ">
             <div class="card green lighten-5">
                 <div class="card-content">
-                    <p>Mehmet Celal Kara - <a href="mailto:info@mcelal.com">info[at]mcelal.com - <a href="https://mcelal.com" target="_blank">mCelal.com</a></a></p>
+                    <p>Mehmet Celal Kara -
+                        <a href="mailto:info@mcelal.com">info[at]mcelal.com</a> -
+                        <a href="https://mcelal.com" target="_blank">mCelal.com</a> -
+                        <a href="https://github.com/mcelal/nba" target="_blank">GitHub</a>
+                    </p>
                     <p>Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
                 </div>
             </div>
