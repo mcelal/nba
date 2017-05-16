@@ -13,3 +13,6 @@ Site adresini belirleyen alttaki satırı kendinize göre düzenleyiniz
 ```sh
 $config['base_url'] = 'http://nba.dev/';
 ```
+
+## Demo Adresi
+https://nba.mcelal.com/
